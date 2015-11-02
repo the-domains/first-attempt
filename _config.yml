@@ -1,0 +1,23 @@
+name: first attempt
+favicon: null
+layout_spectrum: 0.9417148008942604
+typography_spectrum: 0.9076879678759724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.07063288660719991
+  lightness: 0.3013469025027007
+  saturation: 0.1225834812503308
+  rhythmicContrast: 0.17901256144978106
+purpose: []
